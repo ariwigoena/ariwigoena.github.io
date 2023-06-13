@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #03dfff;
+    background: linear-gradient(139deg, #f9ff8a 0%, #5ff2ffb6 90%);
+    margin: 10px;
+    padding: 40px;
+}
+
+td {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 18px;
+    color: black;
+}
+
+tr {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 20px;
+    color: black;
+}
